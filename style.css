@@ -1,0 +1,39 @@
+body {
+    background-color: brown;
+    
+  }
+  .h2 {
+    color: white;
+    background-color: aqua;
+    text-align: center;
+    
+  }
+  h4 {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    width: 90px;
+    margin: 0 auto;
+    
+  }
+  .box {
+    width: 1200px;
+    background-color: wheat;
+    height: 800px;
+    margin: 0 auto;
+    
+  }
+  
+  .img {
+    height: 70px;
+  }
+  .div {
+  border: 1px solid #000;
+  background-color: white;
+  width: 300px;
+  height: 250px;
+  text-align: center;
+  border-radius: 5px;
+  
+  }
